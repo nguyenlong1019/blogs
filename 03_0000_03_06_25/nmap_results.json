@@ -1,0 +1,3489 @@
+[
+    {
+        "ip": "172.16.20.1",
+        "hostname": "_gateway",
+        "state": "up",
+        "os": [
+            {
+                "name": "Linux 2.6.32",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.2 - 4.9",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.10",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.4 - 3.10",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.1",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.2",
+                "accuracy": "95"
+            },
+            {
+                "name": "AXIS 210A or 211 Network Camera (Linux 2.6.17)",
+                "accuracy": "94"
+            },
+            {
+                "name": "Synology DiskStation Manager 5.2-5644",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 2.6.35",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.5",
+                "accuracy": "94"
+            }
+        ],
+        "ports": [
+            {
+                "port": 1723,
+                "state": "open",
+                "name": "pptp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 2000,
+                "state": "open",
+                "name": "cisco-sccp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 2001,
+                "state": "open",
+                "name": "dc",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 2002,
+                "state": "open",
+                "name": "globe",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 2004,
+                "state": "open",
+                "name": "mailbox",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 4343,
+                "state": "open",
+                "name": "unicall",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 8001,
+                "state": "open",
+                "name": "vcom-tunnel",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 8002,
+                "state": "open",
+                "name": "teradataordbms",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.103",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Linux 2.6.32",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.2 - 4.9",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.10",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.4 - 3.10",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.1",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.2",
+                "accuracy": "95"
+            },
+            {
+                "name": "AXIS 210A or 211 Network Camera (Linux 2.6.17)",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 2.6.35",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.5",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.13",
+                "accuracy": "93"
+            }
+        ],
+        "ports": [
+            {
+                "port": 80,
+                "state": "open",
+                "name": "http",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 3000,
+                "state": "open",
+                "name": "ppp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 8181,
+                "state": "open",
+                "name": "intermapper",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.104",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.105",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer (iPhone OS 3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 62078,
+                "state": "open",
+                "name": "iphone-sync",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.106",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "FreeBSD 6.2-RELEASE",
+                "accuracy": "95"
+            },
+            {
+                "name": "Microsoft Windows 10",
+                "accuracy": "92"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 or 2008 Beta 3",
+                "accuracy": "92"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 SP1",
+                "accuracy": "89"
+            },
+            {
+                "name": "m0n0wall 1.3b11 - 1.3b15 (FreeBSD 6.3)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Juniper SRX-series firewall (JUNOS 12.1)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Netasq U70 firewall",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows 10 1511 - 1607",
+                "accuracy": "86"
+            }
+        ],
+        "ports": [
+            {
+                "port": 80,
+                "state": "open",
+                "name": "http",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.108",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "96"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "95"
+            },
+            {
+                "name": "Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple TV 5.2.1 or 5.3",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple Mac OS X 10.6.5 (Snow Leopard) (Darwin 10.5.0)",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple macOS 10.12.5 (Sierra)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "87"
+            }
+        ],
+        "ports": [
+            {
+                "port": 5000,
+                "state": "open",
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7000,
+                "state": "open",
+                "name": "afs3-fileserver",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.110",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Microsoft Windows Server 2008 SP1 or Windows Server 2008 R2",
+                "accuracy": "86"
+            }
+        ],
+        "ports": [
+            {
+                "port": 135,
+                "state": "open",
+                "name": "msrpc",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 139,
+                "state": "open",
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 445,
+                "state": "open",
+                "name": "microsoft-ds",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 5357,
+                "state": "open",
+                "name": "wsdapi",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.111",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Linux 3.1",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.2",
+                "accuracy": "95"
+            },
+            {
+                "name": "AXIS 210A or 211 Network Camera (Linux 2.6.17)",
+                "accuracy": "94"
+            },
+            {
+                "name": "ASUS RT-N56U WAP (Linux 3.4)",
+                "accuracy": "93"
+            },
+            {
+                "name": "Linux 3.16",
+                "accuracy": "93"
+            },
+            {
+                "name": "Linux 2.6.32",
+                "accuracy": "92"
+            },
+            {
+                "name": "Linux 3.11",
+                "accuracy": "92"
+            },
+            {
+                "name": "Linux 3.2 - 4.9",
+                "accuracy": "92"
+            },
+            {
+                "name": "Synology DiskStation Manager 5.0",
+                "accuracy": "92"
+            },
+            {
+                "name": "QNAP QTS 4.0 - 4.2",
+                "accuracy": "92"
+            }
+        ],
+        "ports": [
+            {
+                "port": 80,
+                "state": "open",
+                "name": "http",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.113",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Linux 2.6.32",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.2 - 4.9",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.3",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.10",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.4 - 3.10",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.1",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 3.2",
+                "accuracy": "94"
+            },
+            {
+                "name": "AXIS 210A or 211 Network Camera (Linux 2.6.17)",
+                "accuracy": "94"
+            },
+            {
+                "name": "Synology DiskStation Manager 5.2-5644",
+                "accuracy": "94"
+            },
+            {
+                "name": "Netgear RAIDiator 4.2.28",
+                "accuracy": "94"
+            }
+        ],
+        "ports": [
+            {
+                "port": 22,
+                "state": "open",
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 80,
+                "state": "open",
+                "name": "http",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 139,
+                "state": "open",
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 445,
+                "state": "open",
+                "name": "microsoft-ds",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 902,
+                "state": "open",
+                "name": "iss-realsecure",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 8000,
+                "state": "open",
+                "name": "http-alt",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 8082,
+                "state": "open",
+                "name": "blackice-alerts",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 8181,
+                "state": "open",
+                "name": "intermapper",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 8333,
+                "state": "open",
+                "name": "bitcoin",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.114",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "97"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "96"
+            },
+            {
+                "name": "Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple TV 5.2.1 or 5.3",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple Mac OS X 10.6.5 (Snow Leopard) (Darwin 10.5.0)",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple macOS 10.12.5 (Sierra)",
+                "accuracy": "88"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "87"
+            }
+        ],
+        "ports": [
+            {
+                "port": 37,
+                "state": "filtered",
+                "name": "time",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 1068,
+                "state": "filtered",
+                "name": "instl_bootc",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 1086,
+                "state": "filtered",
+                "name": "cplscrambler-lg",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 1217,
+                "state": "filtered",
+                "name": "hpss-ndapi",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 1277,
+                "state": "filtered",
+                "name": "miva-mqs",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 1417,
+                "state": "filtered",
+                "name": "timbuktu-srv1",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 2034,
+                "state": "filtered",
+                "name": "scoremgr",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 2119,
+                "state": "filtered",
+                "name": "gsigatekeeper",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 2638,
+                "state": "filtered",
+                "name": "sybase",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 4998,
+                "state": "filtered",
+                "name": "maybe-veritas",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 25734,
+                "state": "filtered",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 62078,
+                "state": "open",
+                "name": "iphone-sync",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.115",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.116",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.117",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer (iPhone OS 3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 62078,
+                "state": "open",
+                "name": "iphone-sync",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.119",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Linux 3.2 - 4.9",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.10",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 2.6.32",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.1",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.2",
+                "accuracy": "95"
+            },
+            {
+                "name": "AXIS 210A or 211 Network Camera (Linux 2.6.17)",
+                "accuracy": "94"
+            },
+            {
+                "name": "Synology DiskStation Manager 5.2-5644",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 2.6.35",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.5",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.13",
+                "accuracy": "93"
+            }
+        ],
+        "ports": [
+            {
+                "port": 80,
+                "state": "open",
+                "name": "http",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.12",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": [
+            {
+                "port": 5000,
+                "state": "open",
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7000,
+                "state": "open",
+                "name": "afs3-fileserver",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.127",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Microsoft Windows 10 1703",
+                "accuracy": "98"
+            },
+            {
+                "name": "Microsoft Windows 10 1507 - 1607",
+                "accuracy": "97"
+            },
+            {
+                "name": "Microsoft Windows 10 1511",
+                "accuracy": "96"
+            },
+            {
+                "name": "Microsoft Windows Longhorn",
+                "accuracy": "94"
+            },
+            {
+                "name": "Microsoft Windows 10 10586 - 14393",
+                "accuracy": "94"
+            },
+            {
+                "name": "Microsoft Windows Server 2016 build 10586 - 14393",
+                "accuracy": "94"
+            },
+            {
+                "name": "Microsoft Windows 7 SP0 - SP1, Windows Server 2008 SP1, Windows Server 2008 R2, Windows 8, or Windows 8.1 Update 1",
+                "accuracy": "94"
+            },
+            {
+                "name": "Microsoft Windows 7 Enterprise SP1",
+                "accuracy": "94"
+            },
+            {
+                "name": "Microsoft Windows 7 SP1",
+                "accuracy": "94"
+            },
+            {
+                "name": "Microsoft Windows 7 or Windows Server 2008 R2",
+                "accuracy": "94"
+            }
+        ],
+        "ports": [
+            {
+                "port": 135,
+                "state": "open",
+                "name": "msrpc",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 139,
+                "state": "open",
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 445,
+                "state": "open",
+                "name": "microsoft-ds",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.129",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.132",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "94"
+            },
+            {
+                "name": "Apple iOS 9.0 (Darwin 15.0.0)",
+                "accuracy": "91"
+            },
+            {
+                "name": "Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)",
+                "accuracy": "91"
+            },
+            {
+                "name": "Apple Mac OS X Server 10.5 (Leopard) pre-release build 9A284",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 83,
+                "state": "filtered",
+                "name": "mit-ml-dev",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 1001,
+                "state": "filtered",
+                "name": "webpush",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 1169,
+                "state": "filtered",
+                "name": "tripwire",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 2394,
+                "state": "filtered",
+                "name": "ms-olap2",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 2525,
+                "state": "filtered",
+                "name": "ms-v-worlds",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 10003,
+                "state": "filtered",
+                "name": "documentum_s",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 19350,
+                "state": "filtered",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 49160,
+                "state": "filtered",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 52822,
+                "state": "filtered",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 62078,
+                "state": "open",
+                "name": "iphone-sync",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 64623,
+                "state": "filtered",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.133",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Microsoft Windows 10",
+                "accuracy": "92"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 SP1",
+                "accuracy": "91"
+            },
+            {
+                "name": "Microsoft Windows 10 1511 - 1607",
+                "accuracy": "88"
+            },
+            {
+                "name": "Microsoft Windows Server 2016",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows 7 Professional or Windows 8",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows 10 1703",
+                "accuracy": "86"
+            },
+            {
+                "name": "Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008",
+                "accuracy": "86"
+            },
+            {
+                "name": "Microsoft Windows 10 1607",
+                "accuracy": "86"
+            },
+            {
+                "name": "Microsoft Windows 10 1511",
+                "accuracy": "86"
+            }
+        ],
+        "ports": [
+            {
+                "port": 80,
+                "state": "open",
+                "name": "http",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 135,
+                "state": "open",
+                "name": "msrpc",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 139,
+                "state": "open",
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 445,
+                "state": "open",
+                "name": "microsoft-ds",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.136",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "94"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer (iPhone OS 3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 62078,
+                "state": "open",
+                "name": "iphone-sync",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.138",
+        "hostname": "litextension-H610M-H-V2-DDR4",
+        "state": "up",
+        "os": [
+            {
+                "name": "Linux 2.6.32",
+                "accuracy": "100"
+            }
+        ],
+        "ports": [
+            {
+                "port": 80,
+                "state": "open",
+                "name": "http",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.139",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "97"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "96"
+            },
+            {
+                "name": "Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "FreeBSD 11.0-STABLE",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.6.5 (Snow Leopard) (Darwin 10.5.0)",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple TV 5.2.1 or 5.3",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple macOS 10.12.5 (Sierra)",
+                "accuracy": "88"
+            },
+            {
+                "name": "FreeBSD 11.0-RELEASE - 12.0-CURRENT",
+                "accuracy": "88"
+            },
+            {
+                "name": "FreeBSD 11.0-RELEASE",
+                "accuracy": "88"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "87"
+            }
+        ],
+        "ports": [
+            {
+                "port": 5000,
+                "state": "open",
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7000,
+                "state": "open",
+                "name": "afs3-fileserver",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.140",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.144",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Microsoft Windows Server 2008 SP1 or Windows Server 2008 R2",
+                "accuracy": "86"
+            }
+        ],
+        "ports": [
+            {
+                "port": 135,
+                "state": "open",
+                "name": "msrpc",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 139,
+                "state": "open",
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 445,
+                "state": "open",
+                "name": "microsoft-ds",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 5357,
+                "state": "open",
+                "name": "wsdapi",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.145",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.152",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Linux 2.6.32",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.2 - 4.9",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.10",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.4 - 3.10",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.1",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.2",
+                "accuracy": "95"
+            },
+            {
+                "name": "AXIS 210A or 211 Network Camera (Linux 2.6.17)",
+                "accuracy": "94"
+            },
+            {
+                "name": "Synology DiskStation Manager 5.2-5644",
+                "accuracy": "94"
+            },
+            {
+                "name": "Netgear RAIDiator 4.2.28",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 2.6.35",
+                "accuracy": "94"
+            }
+        ],
+        "ports": [
+            {
+                "port": 3306,
+                "state": "open",
+                "name": "mysql",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.153",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "94"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.4 - 10.7.5 (Lion) (Darwin 11.4.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 - 10.7.5 (Lion) or iOS 4.2 - 5.0.1 (Darwin 10.4.0 - 11.4.2)",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 5000,
+                "state": "open",
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7000,
+                "state": "open",
+                "name": "afs3-fileserver",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.154",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Linux 2.6.32",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.2 - 4.9",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.10",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.4 - 3.10",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.1",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.2",
+                "accuracy": "95"
+            },
+            {
+                "name": "AXIS 210A or 211 Network Camera (Linux 2.6.17)",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 2.6.35",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.5",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.13",
+                "accuracy": "93"
+            }
+        ],
+        "ports": [
+            {
+                "port": 80,
+                "state": "open",
+                "name": "http",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 9200,
+                "state": "open",
+                "name": "wap-wsp",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.157",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "97"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "96"
+            },
+            {
+                "name": "Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.6.5 (Snow Leopard) (Darwin 10.5.0)",
+                "accuracy": "89"
+            },
+            {
+                "name": "FreeBSD 11.0-STABLE",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple TV 5.2.1 or 5.3",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple macOS 10.12.5 (Sierra)",
+                "accuracy": "88"
+            },
+            {
+                "name": "FreeBSD 11.0-RELEASE - 12.0-CURRENT",
+                "accuracy": "88"
+            },
+            {
+                "name": "FreeBSD 11.0-RELEASE",
+                "accuracy": "88"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "87"
+            }
+        ],
+        "ports": [
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 62078,
+                "state": "open",
+                "name": "iphone-sync",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.160",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "96"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "95"
+            },
+            {
+                "name": "Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "FreeBSD 11.0-STABLE",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple TV 5.2.1 or 5.3",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple Mac OS X 10.6.5 (Snow Leopard) (Darwin 10.5.0)",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple macOS 10.12.5 (Sierra)",
+                "accuracy": "88"
+            },
+            {
+                "name": "FreeBSD 11.0-RELEASE - 12.0-CURRENT",
+                "accuracy": "88"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "87"
+            }
+        ],
+        "ports": [
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 62078,
+                "state": "open",
+                "name": "iphone-sync",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.172",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "92"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer (iPhone OS 3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 62078,
+                "state": "open",
+                "name": "iphone-sync",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.180",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "94"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.4 - 10.7.5 (Lion) (Darwin 11.4.2)",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 62078,
+                "state": "open",
+                "name": "iphone-sync",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.19",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.196",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "94"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.4 - 10.7.5 (Lion) (Darwin 11.4.2)",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 3000,
+                "state": "open",
+                "name": "ppp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 3306,
+                "state": "open",
+                "name": "mysql",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 5000,
+                "state": "open",
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7000,
+                "state": "open",
+                "name": "afs3-fileserver",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 8181,
+                "state": "open",
+                "name": "intermapper",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.198",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "94"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.4 - 10.7.5 (Lion) (Darwin 11.4.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 - 10.7.5 (Lion) or iOS 4.2 - 5.0.1 (Darwin 10.4.0 - 11.4.2)",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 5000,
+                "state": "open",
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7000,
+                "state": "open",
+                "name": "afs3-fileserver",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.22",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.23",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.27",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "94"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.4 - 10.7.5 (Lion) (Darwin 11.4.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 - 10.7.5 (Lion) or iOS 4.2 - 5.0.1 (Darwin 10.4.0 - 11.4.2)",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 5000,
+                "state": "open",
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7000,
+                "state": "open",
+                "name": "afs3-fileserver",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.28",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.29",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Linux 2.6.32",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.2 - 4.9",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.10",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.4 - 3.10",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.1",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.2",
+                "accuracy": "95"
+            },
+            {
+                "name": "AXIS 210A or 211 Network Camera (Linux 2.6.17)",
+                "accuracy": "94"
+            },
+            {
+                "name": "Synology DiskStation Manager 5.2-5644",
+                "accuracy": "94"
+            },
+            {
+                "name": "Netgear RAIDiator 4.2.28",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 2.6.35",
+                "accuracy": "94"
+            }
+        ],
+        "ports": [
+            {
+                "port": 80,
+                "state": "open",
+                "name": "http",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.33",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.35",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "FreeBSD 6.2-RELEASE",
+                "accuracy": "95"
+            },
+            {
+                "name": "Microsoft Windows 10",
+                "accuracy": "92"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 or 2008 Beta 3",
+                "accuracy": "92"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 SP1",
+                "accuracy": "89"
+            },
+            {
+                "name": "m0n0wall 1.3b11 - 1.3b15 (FreeBSD 6.3)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Juniper SRX-series firewall (JUNOS 12.1)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Juniper SRX100-series or SRX200-series firewall (JUNOS 10.4 - 12.1)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Netasq U70 firewall",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows 10 1511 - 1607",
+                "accuracy": "86"
+            }
+        ],
+        "ports": [
+            {
+                "port": 3306,
+                "state": "open",
+                "name": "mysql",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.37",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "FreeBSD 6.2-RELEASE",
+                "accuracy": "95"
+            },
+            {
+                "name": "Microsoft Windows 10",
+                "accuracy": "93"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 or 2008 Beta 3",
+                "accuracy": "91"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 SP1",
+                "accuracy": "87"
+            },
+            {
+                "name": "m0n0wall 1.3b11 - 1.3b15 (FreeBSD 6.3)",
+                "accuracy": "86"
+            },
+            {
+                "name": "Juniper SRX-series firewall (JUNOS 12.1)",
+                "accuracy": "86"
+            },
+            {
+                "name": "Microsoft Windows 10 1511 - 1607",
+                "accuracy": "86"
+            },
+            {
+                "name": "Juniper SRX100-series or SRX200-series firewall (JUNOS 10.4 - 12.1)",
+                "accuracy": "85"
+            }
+        ],
+        "ports": [
+            {
+                "port": 8090,
+                "state": "open",
+                "name": "opsmessaging",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.38",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple TV 5",
+                "accuracy": "96"
+            },
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "95"
+            },
+            {
+                "name": "Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.6.5 (Snow Leopard) (Darwin 10.5.0)",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple TV 5.2.1 or 5.3",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "87"
+            }
+        ],
+        "ports": [
+            {
+                "port": 5000,
+                "state": "open",
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7000,
+                "state": "open",
+                "name": "afs3-fileserver",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.4",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "97"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "96"
+            },
+            {
+                "name": "Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "FreeBSD 11.0-STABLE",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple TV 5.2.1 or 5.3",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple Mac OS X 10.6.5 (Snow Leopard) (Darwin 10.5.0)",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple macOS 10.12.5 (Sierra)",
+                "accuracy": "88"
+            },
+            {
+                "name": "FreeBSD 11.0-RELEASE - 12.0-CURRENT",
+                "accuracy": "88"
+            },
+            {
+                "name": "FreeBSD 11.0-RELEASE",
+                "accuracy": "88"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "87"
+            }
+        ],
+        "ports": [
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 62078,
+                "state": "open",
+                "name": "iphone-sync",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.41",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Linux 2.6.32",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.2 - 4.9",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.10",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.4 - 3.10",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.1",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.2",
+                "accuracy": "95"
+            },
+            {
+                "name": "AXIS 210A or 211 Network Camera (Linux 2.6.17)",
+                "accuracy": "94"
+            },
+            {
+                "name": "Synology DiskStation Manager 5.2-5644",
+                "accuracy": "94"
+            },
+            {
+                "name": "Netgear RAIDiator 4.2.28",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 2.6.35",
+                "accuracy": "94"
+            }
+        ],
+        "ports": [
+            {
+                "port": 80,
+                "state": "open",
+                "name": "http",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 3000,
+                "state": "open",
+                "name": "ppp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7070,
+                "state": "open",
+                "name": "realserver",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 8000,
+                "state": "open",
+                "name": "http-alt",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.46",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Microsoft Windows 10",
+                "accuracy": "94"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 SP1",
+                "accuracy": "91"
+            },
+            {
+                "name": "Microsoft Windows 10 1511 - 1607",
+                "accuracy": "88"
+            },
+            {
+                "name": "Microsoft Windows Phone 7.5 or 8.0",
+                "accuracy": "88"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 R2 or Windows 8.1",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows Server 2016",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7",
+                "accuracy": "87"
+            },
+            {
+                "name": "FreeBSD 6.2-RELEASE",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows 10 1703",
+                "accuracy": "86"
+            },
+            {
+                "name": "Microsoft Windows Embedded Standard 7",
+                "accuracy": "86"
+            }
+        ],
+        "ports": [
+            {
+                "port": 135,
+                "state": "open",
+                "name": "msrpc",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 139,
+                "state": "open",
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 445,
+                "state": "open",
+                "name": "microsoft-ds",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.47",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.4 - 10.7.5 (Lion) (Darwin 11.4.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 - 10.7.5 (Lion) or iOS 4.2 - 5.0.1 (Darwin 10.4.0 - 11.4.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "VMware ESX Server 3.0.0 - 3.5.0",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1 - 5.1.1",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 5000,
+                "state": "open",
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7000,
+                "state": "open",
+                "name": "afs3-fileserver",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.48",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 - 10.7.5 (Lion) or iOS 4.2 - 5.0.1 (Darwin 10.4.0 - 11.4.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.1)",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 62078,
+                "state": "open",
+                "name": "iphone-sync",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.49",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "AVtech Room Alert 26W environmental monitor",
+                "accuracy": "87"
+            },
+            {
+                "name": "FreeBSD 6.2-RELEASE",
+                "accuracy": "86"
+            },
+            {
+                "name": "FreeBSD 10.3-STABLE",
+                "accuracy": "85"
+            },
+            {
+                "name": "Microsoft Windows XP SP2",
+                "accuracy": "85"
+            }
+        ],
+        "ports": [
+            {
+                "port": 5357,
+                "state": "open",
+                "name": "wsdapi",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7070,
+                "state": "open",
+                "name": "realserver",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.51",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.54",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "94"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.4 - 10.7.5 (Lion) (Darwin 11.4.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 - 10.7.5 (Lion) or iOS 4.2 - 5.0.1 (Darwin 10.4.0 - 11.4.2)",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 5000,
+                "state": "open",
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7000,
+                "state": "open",
+                "name": "afs3-fileserver",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.56",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.57",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.58",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple TV 5",
+                "accuracy": "97"
+            },
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "96"
+            },
+            {
+                "name": "Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple TV 5.2.1 or 5.3",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple Mac OS X 10.6.5 (Snow Leopard) (Darwin 10.5.0)",
+                "accuracy": "89"
+            },
+            {
+                "name": "Apple macOS 10.12.5 (Sierra)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "87"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "87"
+            }
+        ],
+        "ports": [
+            {
+                "port": 3000,
+                "state": "open",
+                "name": "ppp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 5000,
+                "state": "open",
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7000,
+                "state": "open",
+                "name": "afs3-fileserver",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.6",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "92"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 - 10.7.5 (Lion) or iOS 4.2 - 5.0.1 (Darwin 10.4.0 - 11.4.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 - 10.7.5 (Lion) (Darwin 11.0.0 - 11.4.2)",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 5000,
+                "state": "open",
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7000,
+                "state": "open",
+                "name": "afs3-fileserver",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.64",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "96"
+            },
+            {
+                "name": "Apple TV 5.2.1 or 5.3",
+                "accuracy": "96"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.10 (Tiger) (Darwin 8.10.0, PowerPC)",
+                "accuracy": "93"
+            },
+            {
+                "name": "IBM AIX 7.2",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "93"
+            }
+        ],
+        "ports": [
+            {
+                "port": 62078,
+                "state": "open",
+                "name": "iphone-sync",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.65",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "94"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.4 - 10.7.5 (Lion) (Darwin 11.4.2)",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 445,
+                "state": "open",
+                "name": "microsoft-ds",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 5000,
+                "state": "open",
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 7000,
+                "state": "open",
+                "name": "afs3-fileserver",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.67",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Microsoft Windows 10 1703",
+                "accuracy": "100"
+            }
+        ],
+        "ports": [
+            {
+                "port": 135,
+                "state": "open",
+                "name": "msrpc",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 139,
+                "state": "open",
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 445,
+                "state": "open",
+                "name": "microsoft-ds",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 5357,
+                "state": "open",
+                "name": "wsdapi",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.7",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": [
+            {
+                "port": 7,
+                "state": "filtered",
+                "name": "echo",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.71",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.72",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.73",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Microsoft Windows 10",
+                "accuracy": "95"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 SP1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Microsoft Windows 10 1703",
+                "accuracy": "89"
+            },
+            {
+                "name": "Microsoft Windows 10 1511 - 1607",
+                "accuracy": "88"
+            },
+            {
+                "name": "Microsoft Windows Phone 7.5 or 8.0",
+                "accuracy": "88"
+            },
+            {
+                "name": "Microsoft Windows 10 1511",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 R2 or Windows 8.1",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows Server 2016",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows 7 Professional or Windows 8",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7",
+                "accuracy": "87"
+            }
+        ],
+        "ports": [
+            {
+                "port": 135,
+                "state": "open",
+                "name": "msrpc",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 139,
+                "state": "open",
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 445,
+                "state": "open",
+                "name": "microsoft-ds",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.77",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "AVtech Room Alert 26W environmental monitor",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows XP SP2",
+                "accuracy": "87"
+            },
+            {
+                "name": "FreeBSD 6.2-RELEASE",
+                "accuracy": "86"
+            },
+            {
+                "name": "FreeBSD 10.3-STABLE",
+                "accuracy": "85"
+            }
+        ],
+        "ports": [
+            {
+                "port": 5357,
+                "state": "open",
+                "name": "wsdapi",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.86",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.87",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": [
+            {
+                "port": 9080,
+                "state": "filtered",
+                "name": "glrpc",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.88",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.89",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Apple iOS 11.0",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple Mac OS X 10.4.8 - 10.4.11 (Tiger) (Darwin 8.8.0 - 8.11.0)",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple TV 5",
+                "accuracy": "93"
+            },
+            {
+                "name": "Apple iPad tablet computer (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iPhone mobile phone (iOS 4.3.2)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.5 (Leopard) - 10.6.8 (Snow Leopard) or iOS 4.0 - 4.2.1 (Darwin 9.0.0b5 - 10.8.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple iOS 5.0.1",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)",
+                "accuracy": "90"
+            },
+            {
+                "name": "Apple Mac OS X 10.7.2 (Lion) (Darwin 11.2.0) or iOS 4.3.3 - 4.3.5",
+                "accuracy": "90"
+            }
+        ],
+        "ports": [
+            {
+                "port": 49152,
+                "state": "open",
+                "name": "unknown",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 62078,
+                "state": "open",
+                "name": "iphone-sync",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.90",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.91",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Microsoft Windows 10",
+                "accuracy": "94"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 SP1",
+                "accuracy": "91"
+            },
+            {
+                "name": "Microsoft Windows 10 1511 - 1607",
+                "accuracy": "88"
+            },
+            {
+                "name": "Microsoft Windows Server 2016",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows 7 Professional or Windows 8",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7",
+                "accuracy": "87"
+            },
+            {
+                "name": "FreeBSD 6.2-RELEASE",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows 10 1703",
+                "accuracy": "86"
+            },
+            {
+                "name": "Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008",
+                "accuracy": "86"
+            },
+            {
+                "name": "Microsoft Windows 10 1607",
+                "accuracy": "86"
+            }
+        ],
+        "ports": [
+            {
+                "port": 135,
+                "state": "open",
+                "name": "msrpc",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 139,
+                "state": "open",
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 445,
+                "state": "open",
+                "name": "microsoft-ds",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.92",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.94",
+        "hostname": "",
+        "state": "up",
+        "os": [],
+        "ports": []
+    },
+    {
+        "ip": "172.16.20.95",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "AVtech Room Alert 26W environmental monitor",
+                "accuracy": "87"
+            },
+            {
+                "name": "FreeBSD 10.3-STABLE",
+                "accuracy": "85"
+            },
+            {
+                "name": "Microsoft Windows XP SP2",
+                "accuracy": "85"
+            }
+        ],
+        "ports": [
+            {
+                "port": 5357,
+                "state": "open",
+                "name": "wsdapi",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.97",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Microsoft Windows 10",
+                "accuracy": "94"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 SP1",
+                "accuracy": "91"
+            },
+            {
+                "name": "Microsoft Windows 10 1511 - 1607",
+                "accuracy": "88"
+            },
+            {
+                "name": "Microsoft Windows 10 1703",
+                "accuracy": "88"
+            },
+            {
+                "name": "Microsoft Windows Phone 7.5 or 8.0",
+                "accuracy": "88"
+            },
+            {
+                "name": "Microsoft Windows 10 1607",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows 10 1511",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows Server 2008 R2 or Windows 8.1",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows Server 2016",
+                "accuracy": "87"
+            },
+            {
+                "name": "Microsoft Windows 7 Professional or Windows 8",
+                "accuracy": "87"
+            }
+        ],
+        "ports": [
+            {
+                "port": 135,
+                "state": "open",
+                "name": "msrpc",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 139,
+                "state": "open",
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            {
+                "port": 445,
+                "state": "open",
+                "name": "microsoft-ds",
+                "product": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "ip": "172.16.20.98",
+        "hostname": "",
+        "state": "up",
+        "os": [
+            {
+                "name": "Linux 2.6.32",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.2 - 4.9",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 2.6.32 - 3.10",
+                "accuracy": "96"
+            },
+            {
+                "name": "Linux 3.4 - 3.10",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.1",
+                "accuracy": "95"
+            },
+            {
+                "name": "Linux 3.2",
+                "accuracy": "95"
+            },
+            {
+                "name": "AXIS 210A or 211 Network Camera (Linux 2.6.17)",
+                "accuracy": "94"
+            },
+            {
+                "name": "Synology DiskStation Manager 5.2-5644",
+                "accuracy": "94"
+            },
+            {
+                "name": "Netgear RAIDiator 4.2.28",
+                "accuracy": "94"
+            },
+            {
+                "name": "Linux 2.6.32 - 2.6.35",
+                "accuracy": "94"
+            }
+        ],
+        "ports": [
+            {
+                "port": 80,
+                "state": "open",
+                "name": "http",
+                "product": "",
+                "version": ""
+            }
+        ]
+    }
+]
